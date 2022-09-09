@@ -1,0 +1,13 @@
+sv_cheats 1
+
+mp_roundtime_defuse 60
+
+mp_restartgame 1
+
+sv_infinite_ammo 2
+
+give weapon_smokegrenade
+
+sv_grenade_trajectory 1
+
+bot_kill
